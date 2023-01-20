@@ -1,5 +1,8 @@
 # Simple Chat Application
 This is the frontend for the Chat Application
+
+> Note: you'll need the backend application up and running to use this frontend application (https://github.com/damiisdandy/dubbz-chat-api)
+
 ## How to run
 ```
 git clone https://github.com/damiisdandy/dubbz-chat-client.git dubbz-chat-client
