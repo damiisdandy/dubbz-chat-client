@@ -8,7 +8,7 @@ This is the frontend for the Chat Application
 git clone https://github.com/damiisdandy/dubbz-chat-client.git dubbz-chat-client
 cd dubbz-chat-client
 
-# setup environmental variables
+# Setup environmental variables
 touch .env
 # within the file `.env`, copy the content of `template.env` into `.env`
 # then assign the backend url for the running backend application
@@ -17,6 +17,6 @@ touch .env
 # ensure you have yarn installed (https://classic.yarnpkg.com/lang/en/docs/install/)
 yarn
 
-# start application
+# Start application
 yarn start
 ```
