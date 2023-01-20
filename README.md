@@ -18,5 +18,6 @@ touch .env
 yarn
 
 # Start application
+# ensure .evn file is sourced before running the application `source .env`
 yarn start
 ```
